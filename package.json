@@ -1,0 +1,16 @@
+{
+  "name": "@mae/selectize",
+  "version": "1.0.1",
+  "description": "Jquery based custom <select> UI Controll",
+  "main": "selectize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Selectize",
+    "mae"
+  ],
+  "author": "furqan <furqan@clicksco.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
